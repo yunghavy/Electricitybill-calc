@@ -28,4 +28,5 @@ The program outputs the total cost of electricity for each house.
 The program only supports a limited range of electricity usage.
 The program does not include taxes or other fees
 
-![bill](https://user-images.githubusercontent.com/68750537/224637455-a0736ef8-4d99-4f90-a9cb-9129f702a7b0.png)
+![huduma](https://user-images.githubusercontent.com/68750537/224637870-e132b784-461d-4060-b566-ca26c9965499.png)
+
