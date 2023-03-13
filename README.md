@@ -16,7 +16,7 @@ This program calculates the electricity bill based on units consumed for one or 
 + Handles errors and invalid input.
 
 ## **Input and Output**
-######The program prompts the user to input the following information for each house:
+###### *The program prompts the user to input the following information for each house:*
 
 + House name
 + Renter name
